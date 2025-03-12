@@ -1,33 +1,21 @@
-# What's new in TensorFlow 2.x
+<h1 align="center">Hi 👋, I'm Donají Ramos</h1>
+<h3 align="center">A naturally inquisitive dataenthusiast with a passion for personal technology, collecting data, and uncovering insights that could bloom into new ideas. My journey into the world of data began with an inherent love for *capturing, organizaing, distiling, and expressing information* and finding meaningful patters within it. This fascinations droves me to master KPM tools,SQL, Python, turning raw data into compelling stories, and linking thounghs into new ones. With a solid background in marketing,I've honed my analytical skills to drive strategic decisiones and uncover growth opportunities. My adaptability allows me to thrive in dynamic enviroments, continuosly learing and envolving to meet the demands of the ever-changing data ladscape. As s Data Analyst, I'm eager to leverage my unique skill set and experience to contribuite to data-driven projects and help organizations make informed decisions</h3>
 
-The following are all the changes coming in TensorFlow 2.x. Let's have a closer look at them:
+- 👨‍💻 All of my projects are available at [https://donaji99.github.io/DonajiR_Portfolio.github.io/](https://donaji99.github.io/DonajiR_Portfolio.github.io/)
 
-* Eager Execution / tf.function
-* Integration of the Keras API
-* Facilitated distributed training
-* TF Data
-* TF SavedModel
-* TensorFlow Hub
-* TensorFlow Serving
-* TensorFlow Lite
-* TensorFlow.js
-* Tidying up the API
-* The conversion tool
-* Alternative variable scoping
+- 📫 How to reach me **donajiramosn@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/donaji ramos nuñez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="donaji ramos nuñez" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=donaji99&show_icons=true&locale=en&layout=compact" alt="donaji99" /></p>
   
 
-## Eager Execution
-
-
-Lack of eager execution was one of the main complaints against TensorFlow. We all can relate. Having to execute the whole graph and then trying to debug based on the errors was very tedious. Especially, since values of intermediate results haven't been accessible without printing them out by mixing in debug statements into the production code.
-
-With TensorFlow 2.0, eager execution is activated by default and the very cool thing is that the code nearly doesn't change. Under the hood, you are just working with so-called "EagerTensors" instead of "Tensors" but since they share the same interface, the difference is barely noticeable. Even in execution speed, the difference is hard to see. 
-
-This means, from now on, TensorFlow code can be used and debugged as ordinary python code (using numpy for example). This is one aspect of making TensorFlow more pythonic.
-
-Below there are two tasks. I highly recommend doing them because while watching me coding and coding yourself you'll definitely internalize the material.
-
-### Tasks
 
 1. [Watch me coding](https://www.youtube.com/watch?v=J3_b4461qxU)
 
